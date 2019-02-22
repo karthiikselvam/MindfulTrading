@@ -41,7 +41,8 @@ layout: default
 <div class="container pt-4 pb-4">
 	<div class="row justify-content-center">
         
-        
+		
+		
         <!-- Share -->
 		<div class="col-lg-2 pr-4 mb-4 col-md-12">
 			<div class="sticky-top sticky-top-offset text-center">
@@ -63,7 +64,7 @@ layout: default
         
         
 		<div class="col-md-12 col-lg-8">
-            
+           	<h1>{{ page.title}}</h1> 
             <!-- Article -->
 			<article class="article-post">                
 			{{ content }}                
@@ -102,7 +103,7 @@ layout: default
 				<div class="row mt-5">
 					<div class="col-md-2 align-self-center">
                          {% if author.avatar %}
-                        <img class="rounded-circle" src="{{site.baseurl}}/{{author.avatar}}" alt="{{author.name}}" width="90"/>
+                        <img class="rounded-circle" src="{{site.baseurl}}{{author.avatar}}" alt="{{author.name}}" width="90"/>
                         {% endif %} 
 					</div>
 					<div class="col-md-10">		
