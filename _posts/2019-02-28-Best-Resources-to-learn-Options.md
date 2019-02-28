@@ -2,6 +2,7 @@
 layout: post
 title:  "Best Resources to Learn Options Trading"
 author: karthik
+image: assets/images/best-resources-to-learn-options.jpg
 categories: [ StockMarket, Options ]
 ---
 
@@ -12,8 +13,7 @@ For theory and understanding basic Jargons. Read all these books end to end in t
 
 1.[Options as a Strategic Investment -](https://amzn.to/2T5LkUC) By  Lawrence G. McMillan.
 
-2.[Option Volatility and Pricing -]
-(https://amzn.to/2NzNYfd) By Sheldon Natenberg.
+2.[Option Volatility and Pricing -](https://amzn.to/2NzNYfd) By Sheldon Natenberg.
 
 3.[Trading Options Greeks -](https://amzn.to/2T3bHdL) By Dan Passarelli.
 
