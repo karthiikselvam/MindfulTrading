@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Option Greeks"
+title:  "Option Greek"
 author: karthik
 image: assets/images/OptionGreeks.jpg
 categories: [ StockMarket, Options ]
