@@ -2,13 +2,13 @@
 layout: post
 title:  "Fundamental Analysis 101"
 author: karthik
-image: assets/images/FundamentalAnalysis101.jpg
-categories: [ StockMarket, Fundamental Analysis ]
+image: assets/images/FundamentalAnalysis/FundamentalAnalysis101.jpg
+categories: [ Fundamental Analysis ]
 ---
  
  
-As a Swing trader I never made attempt to learn Fundamental analysis also being Engineer I was never interested in Balance sheets and cash flow statements etc..
-As I evolve looking into the future I have started building couple of Portfolios for this Technical Analysis alone would not do justice. So I have started learning Fundamental Analysis. I have enrolled for couple courses to learn and understand how fundamental analysis works. In these series of Articles I will be sharing some important topics related Fundamental Analysis. So , lets get started..
+As a Swing trader I never made attempt to learn Fundamental analysis also being SoftwareEngineer I was never interested in Balance sheets and cash flow statements etc..
+As I evolve looking into the future I have started building couple of Portfolios for this Technical Analysis alone would not do the justice. So I have started learning Fundamental Analysis. I have enrolled for couple courses to learn and understand how fundamental analysis works. In these series of articles I will be sharing some important topics related Fundamental Analysis. So , lets get started..
 
 
 Learning Outcomes:
@@ -21,7 +21,7 @@ Accounting :
 
 Accounting is the formal collection, aggregation, analysis, and reporting of financial and non-financial data about a company to various end users.
 
-###Type of Accounting :
+### Type of Accounting :
 
 #### 1.Financial Accounting:
 
@@ -43,6 +43,7 @@ Financial Accounting is based on Accruals.
 
 Accrual Accounting occurs through the process of revenue recognition and matching costs to revenues. Revenue recognition means that a company can report revenue that is earned through delivery of service or product can measure this revenue and is reasonably sure of receiving this revenue. 
 Matching costs to revenues means that expenses directly related to revenues are recognized in the same period as the revenues are recognized.
+
 In a nutshell, accrual accounting says that we do not have to see the cash to record a transaction.
 
 Some of the financial and non-financial reporting is mandated and that companies are required to release this periodically, typically quarterly.

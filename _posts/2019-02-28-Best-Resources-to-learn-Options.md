@@ -2,8 +2,8 @@
 layout: post
 title:  "Best Resources to Learn Options Trading"
 author: karthik
-image: assets/images/best-resources-to-learn-options.jpg
-categories: [ StockMarket, Options ]
+image: assets/images/Options/best-resources-to-learn-options.jpg
+categories: [ Options ]
 ---
 
 Learning Options can be quite a daunting task as it involves lot of jargons. One should have thorough understanding of fundamental concepts in order to be successful at Options trading. Here are some are standard resources I had used in my early days and I recommend these to get solid foundation in Options trading.

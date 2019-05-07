@@ -2,9 +2,9 @@
 layout: post
 title:  "Option Greek"
 author: karthik
-image: assets/images/OptionGreeks.jpg
-categories: [ StockMarket, Options ]
+image: assets/images/Options/OptionGreeks.jpg
+categories: [ Options ]
 ---
  
-![OptionPremiumDiagram](/assets/images/OptionsPremiumDiagram.jpg)
-![OptionChain](/assets/images/OptionChain.jpg)
+![OptionPremiumDiagram](/assets/images/Options/OptionsPremiumDiagram.jpg)
+![OptionChain](/assets/images/Options/OptionChain.jpg)
