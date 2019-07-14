@@ -19,3 +19,5 @@ May
 June
 ![SBIN](/assets/images/TradesReviews/2019/June2019/SBIN_25TH_JUNE_2019.png)
 ![PERTONET_LNG](/assets/images/TradesReviews/2019/June2019/PETRONET_LNG_28TH_JUNE_2019.png)
+July
+![ONGC](/assets/images/TradesReviews/2019/July2019/ONGC_07TH_JULY_2019.png)
