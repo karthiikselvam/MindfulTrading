@@ -1,12 +1,23 @@
 ---
-title: "About"
+title: "About Me"
 permalink: "/about.html"
 image: 
 ---
 
-Hi welcome to **MindfulTrading**,
+<style>
+img {
+  border-radius: 50%;
+}
+</style>
+Hi folks, welcome to **MindfulTrading** !
+<p align="center">
+<img src="assets/images/avatar2.jpg" width="400" height="400"  class="img-circle"  />
+</p>
+I am **Karthik**. I am a Machine Learning Engineer and a stock market fanatic from India. I have traded in Indian stock market since fall of 2016.I started as an Options trader and gradually moved to swing trading and Investing. 
 
-I am **Karthik**. I am a Software Developer and a stock market aficionado from India. I have been trading in Indian stock market since fall of 2016. I started as a  Options trader and gradually moved to swing trading and Investing. Here at Mindfultrading, I will be sharing my knowlegde and experience as I explore world of Investing and Trading.
+I am fueled by my passion for understanding the nuances of Markets.I consider myself a ‘*forever student of Market,’* eager to both build on my foundations in Machine Learning and Ecometrics and stay in tune with the latest Machine Learning trends in Finance.
 
-##### **Disclaimer**
-This website is for educational and general informational purposes only and nothing contained on it is or is intended to be construed as advice. It does not take into account your individual objectives, financial situation or needs. It should not be used, relied upon or treated as a substitute for specific or professional advice. You should, before you act or use any of this information, consider the appropriateness of this information having regard to your own personal objectives, financial situation and needs. You should obtain your own independent professional advice before making any decision based on this information and you agree that you use this website and all products you purchase at your own risk.
+My hunger for Knowledge and determination to turn Information into action has inspired to start **Mindfultrading**. Here at Mindfultrading, I will be sharing my knowlegde and experience as I explore world of Investing and Trading.I believe mindfulness in the work is key to success - a tenet I live out through my interests in martial arts, meditation, running, and playing guitar.I currently work as a Machine Learning Engineer and is always interested in a challenge. 
+
+
+Find me on [Quora](https://www.quora.com/profile/Karthik-Selvam-12 "Quora") , [Instagram](https://www.instagram.com/karthiikselvam/ "Instagram") to stay connected.
