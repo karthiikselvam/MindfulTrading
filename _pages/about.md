@@ -11,7 +11,7 @@ img {
 </style>
 Hi folks, welcome to **MindfulTrading** !
 <p align="center">
-<img src="assets/images/avatar2.jpg" width="400" height="400"  class="img-circle"  />
+<img src="assets/images/avatar2.jpg" width="300" height="300"  class="img-circle"  />
 </p>
 I am **Karthik**. I am a Machine Learning Engineer and a stock market fanatic from India. I have traded in Indian stock market since fall of 2016.I started as an Options trader and gradually moved to swing trading and Investing. 
 
