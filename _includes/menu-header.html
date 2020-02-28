@@ -3,14 +3,28 @@
 <li class="nav-item">
 <a class="nav-link" href="{{site.baseurl}}/index.html">Home</a>
 </li>
-<li class="nav-item">
+<!-- <li class="nav-item">
     <a class="nav-link" href="{{site.baseurl}}/categories.html">Categories</a>
-</li>
+</li> -->
+<!-- This code was added to add dropdown in Navigation Bar -->
+<div class="dropdown">
+        <button class="btn btn-light dropdown-toggle text-muted bg-white border-0" type="button" id="dropdownMenu2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          Blog
+        </button>
+        <div class="dropdown-menu" aria-labelledby="dropdownMenu2">
+                <a class="dropdown-item" href="{{site.baseurl}}/options.html">Options</a>
+                <a class="dropdown-item" href="{{site.baseurl}}/fundamentalanalysis.html">Fundamental Analysis</a>
+                <a class="dropdown-item" href="{{site.baseurl}}/categories.html">Categories</a>
+        </div>
+</div>
 <li class="nav-item">
 <a class="nav-link" href="{{site.baseurl}}/about.html">About</a>
 </li>
 <li class="nav-item">
     <a class="nav-link" href="{{site.baseurl}}/journal.html">Journal</a>
+</li>
+<li class="nav-item">
+        <a class="nav-link" href="{{site.baseurl}}/contact.html">Private Mentoring</a>
 </li>
 <li class="nav-item">
 <a class="nav-link" href="{{site.baseurl}}/contact.html">Contact</a>
