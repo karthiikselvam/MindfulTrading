@@ -3,7 +3,7 @@ layout: post
 title:  "#1 March 2020 Weekly Analysis"
 author: karthik
 image: assets/images/Options/OptionGreeks.jpg
-categories: [ Weekly Analysis ]
+categories: [ Weekly Forecast ]
 ---
 
 Find below top down supply and demand technical analysis for Indexes and Commodities using supply and demand imbalances together with price action. These analysis usually have imbalances drawn on one or two timeframes.
