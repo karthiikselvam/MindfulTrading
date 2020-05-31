@@ -13,7 +13,7 @@ Hi folks, welcome to **MindfulTrading** !
 <p align="center">
 <img src="assets/images/avatar2.jpg" width="300" height="300"  class="img-circle"  />
 </p>
-My name is **Karthik Selvam**. I'm a Part time Trader ,Machine Learning Engineer and founder of MindfulTrading. I have been trading in Indian stock market since fall of 2016.I started as an Options trader and gradually moved to swing trading and Investing. 
+My name is **Karthik Selvam**. I'm a Part time Trader and a Machine Learning Engineer. I have been trading in Indian stock market since fall of 2016.I started as an Options trader and gradually moved to swing trading and Investing. 
 
 I trade financial markets using Price Action based supply and demand strategy. I consider myself to be self-taught having developed my trading approach through trial and error. This strategy is a unique interpretation of a blend of information which has been gained from exposure to many others throughout my trading journey.
 
